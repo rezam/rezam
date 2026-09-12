@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&show=reviews,discussions_started,discussions_answered&theme=transparent" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rezam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="100%"/>
 
 </td>
 
@@ -29,7 +29,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rezam&hide_border=true&theme=transparent" width="90%"/>
+  <img src="https://streak-stats.demolab.com/?user=rezam&hide_border=true&theme=transparent" width="90%"/>
 </p>
 
 ---
@@ -37,8 +37,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&theme=github-compact" width="100%"/>
-</prezam
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezam&hide_border=true&area=true&theme=github-compact" width="100%"/>
 </p>
