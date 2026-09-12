@@ -22,8 +22,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           cards: |
-            contribution-history
-            streaks
+            contributions
           output-dir: stats
 
       - name: Commit generated cards
