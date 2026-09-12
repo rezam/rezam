@@ -1,29 +1,5 @@
-# 👋 Hi, I'm Reza
+![](https://raw.githubusercontent.com/rezam/github-stats/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rezam/github-stats/generated/overview.svg#gh-light-mode-only)
 
-### WordPress Developer · PHP · Web Developer
-
-Building WordPress plugins, web applications and automation tools.
-
----
-
-### 🚀 Tech Stack
-
-`PHP` · `WordPress` · `JavaScript` · `HTML` · `CSS` · `MySQL`
-
----
-
-### 📌 Projects
-
-- 🔧 WordPress Plugins
-- 🌐 Custom Web Applications
-- 🤖 AI & Automation Tools
-
----
-
-### Connect
-
-🐙 GitHub: https://github.com/rezam
-
-💼 LinkedIn: YOUR_LINKEDIN
-
-🌍 Website: YOUR_WEBSITE****
+![](https://raw.githubusercontent.com/rezam/github-stats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rezam/github-stats/generated/languages.svg#gh-light-mode-only)
