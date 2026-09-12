@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/rezam/github-stats/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rezam/github-stats/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/rezam/github-stats/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rezam/github-stats/generated/languages.svg#gh-light-mode-only)
+<p align="center">
+  <img src="./stats/contributions.dark.svg#gh-dark-mode-only" alt="GitHub Contributions">
+  <img src="./stats/contributions.light.svg#gh-light-mode-only" alt="GitHub Contributions">
+</p>
