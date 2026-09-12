@@ -2,40 +2,28 @@
 
 ### WordPress Developer · PHP · Web Developer
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rezam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="100%"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezam&layout=compact&langs_count=6&hide_border=true&theme=transparent" width="100%"/>
-
-</td>
-</tr>
-</table>
+Building WordPress plugins, web applications and automation tools.
 
 ---
 
-## 🔥 Contribution Streak
+### 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rezam&hide_border=true&theme=transparent" width="90%"/>
-</p>
+`PHP` · `WordPress` · `JavaScript` · `HTML` · `CSS` · `MySQL`
 
 ---
 
-## 📈 Contribution Activity
+### 📌 Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezam&hide_border=true&area=true&theme=github-compact" width="100%"/>
-</p>
+- 🔧 WordPress Plugins
+- 🌐 Custom Web Applications
+- 🤖 AI & Automation Tools
+
+---
+
+### Connect
+
+🐙 GitHub: https://github.com/rezam
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+🌍 Website: YOUR_WEBSITE****
