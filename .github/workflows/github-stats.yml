@@ -20,6 +20,7 @@ jobs:
       - name: Generate profile cards
         uses: seijikohara/profile-cards-action@v0
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           cards: |
             contribution-history
             streaks
